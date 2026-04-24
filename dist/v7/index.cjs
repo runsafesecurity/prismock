@@ -4819,7 +4819,7 @@ function updateMany(args, current, delegates, onChange) {
   return toUpdate;
 }
 // node_modules/@prisma/client/package.json
-var version = "6.12.0";
+var version = "6.19.3";
 
 // src/lib/globals.ts
 async function getGlobals() {
