@@ -137,5 +137,9 @@
     "*.{ts,tsx}": [
       "eslint --fix"
     ]
+  },
+  "overrides": {
+    "deepmerge-ts": "8.0.2",
+    "defu": "6.1.7"
   }
 }
