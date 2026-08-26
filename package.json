@@ -139,7 +139,7 @@
     ]
   },
   "overrides": {
-    "deepmerge-ts": "8.0.0",
+    "deepmerge-ts": "8.0.2",
     "defu": "6.1.5"
   }
 }
